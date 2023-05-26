@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **advanced MLOps projects**
 
 
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel/)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-neil/)
 
 - 📫 Reach me at gabrielneil7@gmail.com
 
